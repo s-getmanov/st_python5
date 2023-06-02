@@ -25,6 +25,6 @@
 Если оба могут вложиться - выведите 2, если только Майкл - Mike, если только Иван - Ivan, если не могут по отдельности, но вместе им хватает - 1, если никто - 0.
 
 ####  Файл к заданию 3: 
-[task3.py](https://github.com/s-getmanov/st_python5/blob/main/task2.py)
+[task3.py](https://github.com/s-getmanov/st_python5/blob/main/task3.py)
 
 
